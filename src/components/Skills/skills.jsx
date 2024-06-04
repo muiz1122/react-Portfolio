@@ -37,9 +37,9 @@ const Skills = () => {
                 <div className="skillBar">
                     <img src={AppDesign} alt="AppDesign" className="skillBarImg" />
                     <div className="skillBarText">
-                        <h2>HTML/CSS and React Developer</h2>
+                        <h2>HTML/CSS/Tailwind CSS and React Developer</h2>
                         <p>
-                            An experienced developer skilled in HTML, CSS, and React,
+                            An experienced developer skilled in HTML, CSS(Tailwind), and React,
                             creating visually stunning and responsive web interfaces.
                         </p>
                     </div>
